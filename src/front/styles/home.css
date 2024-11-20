@@ -1,7 +1,18 @@
-/*
-    home.css: This website contains selectors only used in home.css
+#creator {
+    padding-top: 40vh;
+    display:grid;
+    margin:auto;
+    width: 20vw;
+}
 
-    All pages share the styles on index.css but you should create 
-    one more css for each page that will contain the selected used 
-    on that page only (the ones not reused in other pages).
-*/
+#portal {
+    padding-top: 40vh;
+    display:grid;
+    margin:auto;
+    width: 20vw;
+}
+
+#userInfo {
+    display: grid;
+    margin: auto
+}
